@@ -1,5 +1,5 @@
 {
-  "name": "Travel Blog",
+  "name": "travel-blog",
   "private": true,
   "description": "A simple blog project made with gatsbyjs and contentful",
   "version": "0.1.0",
